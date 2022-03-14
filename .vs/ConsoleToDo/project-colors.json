@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cadd11d-8a57-4615-b6d2-1c434c86ef2a": {
+      "ProjectGuid": "6cadd11d-8a57-4615-b6d2-1c434c86ef2a",
+      "DisplayName": "ConsoleToDo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

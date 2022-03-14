@@ -1,0 +1,8 @@
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\bin\Debug\ConsoleToDo.exe.config
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\bin\Debug\ConsoleToDo.exe
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\bin\Debug\ConsoleToDo.pdb
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.exe
+C:\Users\ACER\Desktop\kurs\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.pdb
